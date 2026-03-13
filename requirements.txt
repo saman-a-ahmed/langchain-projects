@@ -4,3 +4,5 @@ langchain-community
 openai
 streamlit
 python-dotenv
+pypdf
+faiss-cpu
